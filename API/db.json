@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "email": "vito@test.com",
+      "name": "Victor Bergamo",
+      "password": "victor@123",
+      "id": 1
+    },
+    {
+      "email": "japones@teste.com",
+      "password": "123",
+      "name": "japones",
+      "id": 2
+    },
+    {
+      "email": "kadi@teste.com",
+      "password": "123",
+      "name": "kadi",
+      "id": 3
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Burger King",
+      "address": "Rua 1",
+      "contact": 1111,
+      "id": 1
+    }
+  ]
+}
