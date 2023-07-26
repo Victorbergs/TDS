@@ -2,7 +2,6 @@
 <div class="nav">
     <router-link to="/" href="#">Home</router-link>
     <router-link to="add" href="#">Add Restaurant</router-link>
-    <router-link to="update" href="#">Update Restaurant</router-link>
     <a v-on:click="logout" href="#">Logout</a>
 </div>
 </template>
